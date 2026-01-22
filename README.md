@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukreet Biswas</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate  full-stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukreet018&label=Profile%20views&color=0e75b6&style=flat" alt="sukreet018" /> </p>
 
