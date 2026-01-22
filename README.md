@@ -46,11 +46,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sukreet018&show_icons=true&theme=tokyonight
-"
+    src="https://github-readme-stats.vercel.app/api?username=Sukreet018&show_icons=true&theme=github_dark"
     alt="sukreet018"
   />
 </p>
+
 
 <p align="left">
   <a href="https://github.com/Sukreet018">
