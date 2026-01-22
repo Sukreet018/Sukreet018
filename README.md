@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://github.com/Sukreet018">
-    <img src="https://github-profile-trophy.vercel.app/?username=sukreet018" alt="sukreet018" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sukreet018" alt="sukreet018" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 <a href="https://x.com/sukreet7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sukreet" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sukreet-biswas-6031b3361/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukreet biswas" height="30" width="40" /></a>
 <a href="https://instagram.com/_sukreet_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sukreet_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sukreet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sukreet" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/ckZeMutkDL/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sukreet" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
