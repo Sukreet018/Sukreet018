@@ -1,126 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Sukreet%20Biswas&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20Microservices%20%C2%B7%20AI%2FML&descSize=17&descAlignY=60" alt="Sukreet Biswas" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=300&section=header&text=Sukreet%20Biswas&fontSize=76&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20Distributed%20Systems%20%C2%B7%20Applied%20AI&descSize=26&descAlignY=65" width="100%" alt="Sukreet Biswas" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1F6FEB&center=true&vCenter=true&width=600&lines=Building+microservices+in+Python+%26+Go;Serving+Transformer+models+with+FastAPI;B.Tech+CSE-AI+%C2%B7+Kolkata%2C+India" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/sukreet-biswas-6031b3361/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
-<a href="mailto:sukreet018@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
-<a href="https://leetcode.com/u/ckZeMutkDL/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=58a6ff" alt="LeetCode" /></a>
-<a href="https://x.com/sukreet7"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff" alt="X" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1500&color=1F6FEB&center=true&vCenter=true&width=900&height=60&lines=Building+scalable+microservices+in+Python+%26+Go;Serving+Transformer+models+in+production+with+FastAPI;B.Tech+CSE+(AI)+%C2%B7+Kolkata%2C+India" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/Sukreet018?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0d1117&color=1f6feb" alt="Followers" />
-<img src="https://img.shields.io/github/stars/Sukreet018/Velora?style=flat-square&logo=github&logoColor=58a6ff&label=Velora%20stars&labelColor=0d1117&color=1f6feb" alt="Velora stars" />
-<img src="https://img.shields.io/github/last-commit/Sukreet018/Velora?style=flat-square&logo=github&logoColor=58a6ff&label=last%20commit&labelColor=0d1117&color=1f6feb" alt="Last commit" />
-<img src="https://komarev.com/ghpvc/?username=sukreet018&label=Profile%20views&color=1f6feb&labelColor=0d1117&style=flat-square" alt="Profile views" />
+<a href="https://www.linkedin.com/in/sukreet-biswas-6031b3361/"><img height="42" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
+<a href="mailto:sukreet018@gmail.com"><img height="42" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff" alt="Email" /></a>
+<a href="https://github.com/Sukreet018?tab=repositories"><img height="42" src="https://img.shields.io/badge/Repositories-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff" alt="Repositories" /></a>
+<a href="https://leetcode.com/u/ckZeMutkDL/"><img height="42" src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=58a6ff" alt="LeetCode" /></a>
+<a href="https://x.com/sukreet7"><img height="42" src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=58a6ff" alt="X" /></a>
+
+<br/><br/>
+
+<img height="30" src="https://komarev.com/ghpvc/?username=sukreet018&label=Profile%20Views&color=1f6feb&labelColor=0d1117&style=for-the-badge" alt="Profile views" />
+<img height="30" src="https://img.shields.io/github/followers/Sukreet018?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117&color=1f6feb" alt="Followers" />
+<img height="30" src="https://img.shields.io/github/last-commit/Sukreet018/Velora?style=for-the-badge&logo=github&logoColor=58a6ff&label=Last%20Commit&labelColor=0d1117&color=1f6feb" alt="Last commit" />
 
 </div>
 
 <br/>
 
-## `> about`
+## About
 
-Final-year **B.Tech CSE (AI)** student at Techno India University, Kolkata. I build backends that hold up in the real world, from distributed microservices to production-ready ML inference APIs.
-
-- 🏗️ Designed an **11-service** food-delivery backend with a JWT gateway, Redis rate limiter and WebSocket live tracking
-- ⚡ Built a **20-worker concurrent Go crawler** running at 4.92 pages/sec
-- 🧠 **94.8% accuracy** on 140K+ samples with Transformer fusion *(paper under review, ICFTIC)*
-- 🌱 Currently learning: backend development (Node.js & Go), API design, how system components talk to each other
-- 💬 Ask me about: full-stack project structure, breaking down problems, debugging logic
-
-<br/>
-
-## `> projects`
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sukreet018/Velora">🛵 Velora</a></h3>
-      <sub><b>Food-delivery microservices backend</b></sub>
-      <br/><br/>
-      11 services (9 FastAPI, 2 Go) behind an Nginx gateway with JWT and role-based authorization. RabbitMQ workers with payment idempotency, Redis rate limiter, WebSocket live tracking and React portals.
-      <br/><br/>
-      <code>Python</code> <code>FastAPI</code> <code>Go</code> <code>PostgreSQL</code> <code>Redis</code> <code>RabbitMQ</code> <code>Docker</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sukreet018/web-crawler">🕷️ Wikipedia Graph Crawler</a></h3>
-      <sub><b>Concurrent crawler in Go</b></sub>
-      <br/><br/>
-      20-goroutine worker pool with a dynamic frontier. Atomic URL de-duplication, ticker-based rate limiting and graceful shutdown. 100 pages in 20.49 s.
-      <br/><br/>
-      <code>Go</code> <code>Goroutines</code> <code>Channels</code> <code>sync.Map</code> <code>context</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Sukreet018/Emotiverse">🎭 Emotiverse</a></h3>
-      <sub><b>Emotion analysis platform</b></sub>
-      <br/><br/>
-      Node.js backend plus a FastAPI service serving BERT models in real time. JWT auth and MongoDB. Now being re-architected into FastAPI microservices.
-      <br/><br/>
-      <code>React</code> <code>Node.js</code> <code>FastAPI</code> <code>MongoDB</code> <code>BERT</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔬 TetraSense</h3>
-      <sub><b>Quad-Transformer fusion research</b></sub>
-      <br/><br/>
-      Fusion layer combining BERT, ALBERT, ELECTRA and ERNIE for emotion classification. 94.8% accuracy on 140K+ samples. Paper under review at ICFTIC.
-      <br/><br/>
-      <code>PyTorch</code> <code>Hugging Face</code> <code>NLP</code>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## `> stack`
+I am a final-year B.Tech student in Computer Science & Engineering (Artificial Intelligence) at Techno India University, Kolkata. I design and build backend systems, from event-driven microservices to production-ready ML inference services, with a focus on clean architecture, reliability and concurrency.
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=58a6ff)
-![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=58a6ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=58a6ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=58a6ff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=58a6ff)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=58a6ff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=58a6ff)
-![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=58a6ff)
-![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=58a6ff)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=58a6ff)
-![WebSockets](https://img.shields.io/badge/WebSockets-0d1117?style=flat-square&logo=socketdotio&logoColor=58a6ff)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=58a6ff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=58a6ff)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=58a6ff)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0d1117?style=flat-square&logo=rabbitmq&logoColor=58a6ff)
-
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=58a6ff)
-![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=58a6ff)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=58a6ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=58a6ff)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=58a6ff)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=flat-square&logo=postman&logoColor=58a6ff)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=58a6ff)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=58a6ff)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=58a6ff)
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=58a6ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=58a6ff)
+<img src="https://skillicons.dev/icons?i=py,go,fastapi,nodejs,docker,postgres,redis,rabbitmq,pytorch,react&theme=dark&perline=10" height="64" alt="Core technologies" />
 
 </div>
 
 <br/>
 
-## `> connect`
+<div align="center">
 
-Open to **Backend Engineer** and **AI/ML** internships. If you're building something interesting, I'd love to hear about it.
+<table>
+  <tr>
+    <td align="center" width="25%"><h1>11</h1><b>Services</b><br/>in the Velora microservices backend</td>
+    <td align="center" width="25%"><h1>20</h1><b>Goroutines</b><br/>in a concurrent Go crawler</td>
+    <td align="center" width="25%"><h1>94.8%</h1><b>Accuracy</b><br/>Transformer fusion research</td>
+    <td align="center" width="25%"><h1>140K+</h1><b>Samples</b><br/>used for model evaluation</td>
+  </tr>
+</table>
 
-📫 **sukreet018@gmail.com**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" width="100%" alt="footer" />
+<br/>
+
+## Focus Areas
+
+- **Backend Engineering:** REST APIs, JWT authentication, role-based access control, API gateways, rate limiting and idempotent payment flows
+- **Distributed Systems:** event-driven architecture with RabbitMQ, Redis, WebSockets and Docker-based deployment
+- **Concurrency:** worker pools, channels and race-condition debugging in Go
+- **Applied AI:** Transformer models for NLP, served in real time through FastAPI
+
+<br/>
+
+## Projects
+
+### [Velora: Food-Delivery Microservices Backend](https://github.com/Sukreet018/Velora)
+
+A production-style backend made of 11 deployable services (9 FastAPI, 2 Go) on PostgreSQL, Redis, RabbitMQ and SeaweedFS, running with Docker Compose behind a load-balanced Nginx gateway.
+
+- API gateway that validates JWTs and enforces role-based, route-level authorization for customers, owners, riders and admins
+- RabbitMQ workers for orders, riders, notifications and invoices, with payment idempotency keys and a Razorpay webhook
+- Redis-backed rate limiter and WebSocket live-tracking service written in Go
+- React and TypeScript customer and admin portals (around 17K lines of code) with live delivery maps
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,go,postgres,redis,rabbitmq,docker,nginx,react,ts&theme=dark&perline=10" height="56" alt="Velora stack" />
+
+<br/><br/>
+
+### [Wikipedia Graph Crawler: Concurrent Go Crawler](https://github.com/Sukreet018/web-crawler)
+
+A concurrent crawler built around a 20-goroutine worker pool with a dynamic frontier that feeds discovered links back into the queue. It crawls 100 unique pages in 20.49 seconds (4.92 pages/sec).
+
+- Atomic URL de-duplication using `sync.Map` and `LoadOrStore`
+- Ticker-based rate limiter at 5 requests per second
+- Graceful shutdown through `context` and `os/signal`, with race conditions diagnosed and fixed
+
+<img src="https://skillicons.dev/icons?i=go,linux,git&theme=dark" height="56" alt="Crawler stack" />
+
+<br/><br/>
+
+### [Emotiverse: Emotion Analysis Platform](https://github.com/Sukreet018/Emotiverse)
+
+A full-stack platform with a Node.js backend and a FastAPI inference service that serves BERT models in real time for sentiment and emotion analysis. It uses JWT authentication and MongoDB, and is currently being re-architected into FastAPI microservices (gateway, auth, user, emotion, media, notification).
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,mongodb,py,pytorch&theme=dark" height="56" alt="Emotiverse stack" />
+
+<br/><br/>
+
+### TetraSense: Quad-Transformer Fusion Research
+
+A fusion layer that combines BERT, ALBERT, ELECTRA and ERNIE for emotion classification, with optimized tokenization and output fusion. It reaches 94.8% accuracy on more than 140K samples. The paper is under review at the 7th International Conference on Frontier Technologies of Information and Computer (ICFTIC).
+
+<img src="https://skillicons.dev/icons?i=pytorch,py,sklearn&theme=dark" height="56" alt="TetraSense stack" />
+&nbsp;
+
+<br/>
+
+## Technical Skills
+
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,go,js,ts,cpp,postgres,mysql&theme=dark" height="56" alt="Languages" />
+
+**Backend and Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,tailwind&theme=dark" height="56" alt="Backend and frontend" />
+
+
+**Databases and Messaging**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,rabbitmq&theme=dark" height="56" alt="Databases and messaging" />
+
+**DevOps and Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,githubactions,git,github,linux,postman&theme=dark" height="56" alt="DevOps and tools" />
+
+**AI and Machine Learning**<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&theme=dark" height="56" alt="AI and ML" />
+<img src="https://devicons.io/devicons/icons/pandas-icon.svg" height="50" />
+<img src="https://devicons.io/devicons/icons/hugging-face-icon.svg" height="50"/>
+
+<br/>
+
+## GitHub Activity
+
+<div align="center">
+
+<img width="85%" src="https://streak-stats.demolab.com?user=Sukreet018&background=0D1117&ring=1F6FEB&fire=1F6FEB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&stroke=30363D&border=30363D" alt="GitHub streak" />
+
+</div>
+
+<br/>
+
+<br/>
+
+## Contact
+
+I am open to Backend Engineer and AI/ML opportunities.
+
+**Email:** [sukreet018@gmail.com](mailto:sukreet018@gmail.com)<br/>
+**LinkedIn:** [sukreet-biswas](https://www.linkedin.com/in/sukreet-biswas-6031b3361/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
